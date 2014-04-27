@@ -40,6 +40,9 @@ Installer <a href="http://imagemagick.org/" target="_blank">ImageMagick</a> et <
 	  zip svg.zip *.svg 
  </pre>
 
+Il est possible de stocker ces lignes de commandes dans un fichier executable (drag and drop dans le terminal)
+linux : bash
+osx : applescript (vraisemblablement) (bash aussi peut etre) 
 
 Auparavant ,trois méthodes ont été expérimentées en utilisant la libraire <a href="http://code.andreaskoller.com/libraries/fontastic/" target="_blank">Fontastic</a> : <br/>
 1 - La méthode getVertex() (vector2.pde), ne permet pas de récupérer les courbes ;<br/>
